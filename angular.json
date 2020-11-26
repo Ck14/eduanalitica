@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "edu-analytics"
+  "defaultProject": "edu-analytics",
+  "cli": {
+    "analytics": "9c5c0dfa-640c-46c6-a061-a258fc04ca78"
+  }
 }
